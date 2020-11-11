@@ -678,14 +678,12 @@
 					<div class="col-md-6">
 						<div id="contact-right">
 							<h3>Contact Us</h3>
-							<form action="#">
+							<form name="myForm" action="javascript:valid()" onsubmit="return validateForm()" method="post">
 								<input type="text" name="Full-name" placeholder="Full Name" class="form-control">
-								<input type="text" name="Email-Address" placeholder="Email Address" class="form-control">
+								<input type="email" name="Email-Address" placeholder="Email Address" class="form-control">
 								<textarea rows="5" name="message" placeholder="Message..." class="form-control"></textarea>
-								<div id="send-btn">
-									<a class="btn btn-general btn-white" href="#" role="button">SEND</a>
-								</div>
-
+							    <input type="submit" value="Sent" id="send-btn">
+			
 							</form>
 						</div>
 					</div>
