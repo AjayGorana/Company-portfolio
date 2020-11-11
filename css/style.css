@@ -151,6 +151,7 @@ btn-blue:focus {
 	margin: 0 auto 30px auto;
 }
 
+/*==============services section===============*/
 .service-item {
 	padding: 20px 0 20px 0;
 	margin-bottom: 20px;
@@ -183,7 +184,7 @@ btn-blue:focus {
 	margin-bottom: 60px;
 }
 
-/*==========about========*/
+/*========================about======================*/
 #about-bg-diagonal {
 	width: 60%;
 	height: 700px;
@@ -226,7 +227,7 @@ btn-blue:focus {
 	margin-bottom: 30px;
 }
 
-/*========work=======*/
+/*============================work====================*/
 .row.no-gutters [class*=col-] {
 	padding-left: 0px;
 	padding-right: 0px;
@@ -249,7 +250,7 @@ btn-blue:focus {
 	cursor: zoom-in;
 }
 
-/*=========team=======*/
+/*===========================team=====================*/
 .team-member {
 	margin: 0 15px;
 }
@@ -483,7 +484,7 @@ ul.pricing-spec li p {
 	padding: 40px 0;
 }
 
-/*=============contact=======================*/
+/*=============================contact========================*/
 footer {
 	background-color: #42464b;
 	padding-top: 18px;
@@ -533,9 +534,23 @@ form .form-control {
 	color: #fff;
 }
 
-#send-btn {
-	padding-bottom: 1px;
 
+#send-btn{
+    border: 2px solid #fff;
+	padding: 12px 26px 12px 26px;
+	font-size: 16px;
+	font-weight: 400;
+	text-transform: Uppercase;
+	text-decoration: none;
+	border-radius: 0px;
+        background-color: #41464b;
+        color: white;
+        text-decoration: none;
+        cursor: pointer; 	
+}
+#send-btn:hover{
+	background-color:white;
+	color:#41464b;	
 }
 
 /*===================footer =========*/
