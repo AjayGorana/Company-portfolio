@@ -1,3 +1,4 @@
+
 # Modern Responsive Website 
 It is a demo portfolio website for startup company. built using Html5,css3, javascript,Bootstrap3,jquery.
 
@@ -18,10 +19,12 @@ Features:-
 
 link of website :- https://dotclass.netlify.app/
 
+QR Code of website :- ![qrcode_dotclass netlify app](https://user-images.githubusercontent.com/54750602/119879379-cc3c8180-bf48-11eb-82a7-64c528b4649a.png)
+
 
 source code :-https://github.com/AjayGorana/Portfolio-Startup-Website
 
-
+Preview of website :-
 ![Screenshot (479)](https://user-images.githubusercontent.com/54750602/119869324-b9707f80-bf3d-11eb-8f08-484540a9acc5.png)
 ![Screenshot (480)](https://user-images.githubusercontent.com/54750602/119865942-df942080-bf39-11eb-8f2d-dd874d77a2bb.png)
 ![Screenshot (481)](https://user-images.githubusercontent.com/54750602/119869355-c1302400-bf3d-11eb-826b-71db7ea70eda.png)
