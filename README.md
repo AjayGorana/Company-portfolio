@@ -6,10 +6,10 @@
 ![Screenshot (463)](https://user-images.githubusercontent.com/54750602/119842605-71912e80-bf24-11eb-9eb2-95cff204fdc6.png)
 
 ![Screenshot (464)](https://user-images.githubusercontent.com/54750602/119838041-b74bf800-bf20-11eb-9c0e-78abd0a097e9.png)
-
+![Screenshot (465)](https://user-images.githubusercontent.com/54750602/119838398-0134de00-bf21-11eb-8757-2bc48a4a209c.png)
 ![Screenshot (466)](https://user-images.githubusercontent.com/54750602/119838172-d054a900-bf20-11eb-846d-7672281e76da.png)
 ![Screenshot (467)](https://user-images.githubusercontent.com/54750602/119838173-d054a900-bf20-11eb-84b5-b9cc6478a08e.png)
-![Screenshot (465)](https://user-images.githubusercontent.com/54750602/119838398-0134de00-bf21-11eb-8757-2bc48a4a209c.png)
+
 
 # Modern Responsive Website 
 It ia a demo portfolio website for startup company. built using Html5,css3, javascript,Bootstrap3,jquery.
