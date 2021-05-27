@@ -19,7 +19,9 @@ Features:-
 
 link of website :- https://dotclass.netlify.app/
 
-QR Code of website :- ![qrcode_dotclass netlify app](https://user-images.githubusercontent.com/54750602/119879379-cc3c8180-bf48-11eb-82a7-64c528b4649a.png)
+QR Code of website :- 
+
+![qrcode_dotclass netlify app](https://user-images.githubusercontent.com/54750602/119879379-cc3c8180-bf48-11eb-82a7-64c528b4649a.png)
 
 
 source code :-https://github.com/AjayGorana/Portfolio-Startup-Website
