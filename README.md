@@ -1,5 +1,17 @@
 # Modern Responsive Website 
-It ia a demo portfolio website for startup company. built using Html5,css3, javascript,Bootstrap3,jquery.
+It is a demo portfolio website for startup company. built using Html5,css3, javascript,Bootstrap3,jquery.
+Features:-
+- Fully responsive with different screen size
+- Collapsible navigation bar
+- Auto Image Slider
+- Easing scrolling
+- Automatic Counter effect
+- Magnific pop ,zoom-in zoom-out effect
+- Modern Css animation
+- Google fonts
+- Auto loading
+- Bottom-up button
+
 
 link of website :- https://dotclass.netlify.app/
 
